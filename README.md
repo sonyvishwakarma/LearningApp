@@ -27,5 +27,4 @@ This application was structured and developed using an AI-assisted design paradi
 ## 📦 Submission Deliverables
 
 * **Repository Link:** [github.com/sonyvishwakarma/LearningApp]
-* **Compiled Debug APK Path:** Located within the local compilation artifacts folder hierarchy at:  
-  `app/build/outputs/apk/debug/app-debug.apk`
+* **Download APK Directly:** [Click Here to Download app-debug.apk](https://github.com/sonyvishwakarma/LearningApp/raw/main/app/app-debug.apk)
